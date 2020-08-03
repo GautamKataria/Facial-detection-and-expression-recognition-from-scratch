@@ -18,6 +18,7 @@
 
 ### Model building
 ##### Now follow along the jupytrer notebook to make a tranfer learning Resnet model to classify our images into emotions/expresssions.
+##### i have configured it so that only the best model will be chosen through model checkpointing based on val_loss so you dont have to worry about overfitting the model. 
 
 ### Deployment
 
