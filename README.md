@@ -29,6 +29,8 @@
 
 ##### Now to see the final product run the model_working.py file which will show you the result and detections in realtime.
 
+![Graphs](https://res.cloudinary.com/gautzz/image/upload/v1596707054/Emotion%20recognition/graphs_ufxegz.png "Graphs")
+
 ![neutral](https://res.cloudinary.com/gautzz/image/upload/v1596703695/Emotion%20recognition/neutral_v1_lep0s6.png "Neutral")
 
 ![happy](https://res.cloudinary.com/gautzz/image/upload/v1596703692/Emotion%20recognition/happy_mthl1t.png "Happy")
