@@ -1,4 +1,4 @@
-# Facial-detection-and-emotion-expression-recognition-from-scratch-using-custom-dataset
+# Facial detection and emotion expression recognition from scratch using custom dataset with an accuracy of more than 90%
 
 
 
