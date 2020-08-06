@@ -20,9 +20,15 @@
 ##### Now follow along the jupytrer notebook to make a tranfer learning Resnet model to classify our images into emotions/expresssions.
 ##### i have configured it so that only the best model will be chosen through model checkpointing based on val_loss so you dont have to worry about overfitting the model. 
 
+#### Just before the results here are some improvements that can be made to help the model classify better.
+##### 1) Making images b/w.(So that our model doesnt learn unneccesary data for eg - colors.)
+##### 2) Equalize the brightness of each image in training and test data.
+##### 3) The same would be applied to preprocess images while detecting. 
+
 ### Results
 
 ##### Now to see the final product run the model_working.py file which will show you the result and detections in realtime.
+
 ![neutral](https://res.cloudinary.com/gautzz/image/upload/v1596703695/Emotion%20recognition/neutral_v1_lep0s6.png "Neutral")
 
 ![happy](https://res.cloudinary.com/gautzz/image/upload/v1596703692/Emotion%20recognition/happy_mthl1t.png "Happy")
